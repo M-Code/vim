@@ -11,7 +11,11 @@ set smartindent
 set number
 set ruler
 set title
+set wildmenu
 
 colorscheme blue
 syntax on
+
+set hlsearch
+set incsearch
 </pre>
