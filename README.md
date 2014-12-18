@@ -18,4 +18,6 @@ syntax on
 
 set hlsearch
 set incsearch
+
+set paste
 </pre>
