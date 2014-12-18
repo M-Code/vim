@@ -10,6 +10,7 @@ set smartindent
 
 set number
 set ruler
+set title
 
 colorscheme blue
 syntax on
