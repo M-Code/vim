@@ -7,6 +7,7 @@ set shiftwidth=4
 set expandtab
 set autoindent
 set smartindent
+set cindent
 
 set number
 set ruler
@@ -19,5 +20,4 @@ syntax on
 set hlsearch
 set incsearch
 
-set paste
 </pre>
