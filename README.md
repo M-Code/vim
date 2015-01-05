@@ -20,6 +20,6 @@ syntax on
 set hlsearch
 set incsearch
 
-map <F7> :! ../compile.sh <CR>
+map <F7> :! clear; ../compile.sh <CR>
 
 </pre>
