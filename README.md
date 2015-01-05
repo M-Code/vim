@@ -19,7 +19,7 @@ syntax on
 
 set hlsearch
 set incsearch
-
+map <C-O> : e. <CR>
 map <F7> :! clear; ../compile.sh <CR>
 map <F6> :! clear; ../debug.sh <CR>
 map <F5> :! clear; ../run.sh <CR>
