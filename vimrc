@@ -17,5 +17,5 @@ set hlsearch
 set incsearch
 map <C-K>: e. 
 map <F7>:! clear; ../compile.sh 
-map <F6>! clear; ../debug.sh 
+map <F6>:! clear; ../debug.sh 
 map <F5>:! clear; ../run.sh 
