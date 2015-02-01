@@ -8,6 +8,7 @@ set number
 set ruler
 set title
 set wildmenu
+set backspace=indent,eol,start
 
 syntax on
 
