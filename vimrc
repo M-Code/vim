@@ -21,6 +21,8 @@ map <F7> :! clear; cd .. ; make <CR>
 map <F6> :! clear; cd .. ; make debug <CR>
 map <F5> :! clear; cd .. ; make run <CR> <CR>
 
+map <F12> : noh <CR>
+
 map <C-K> :e. <CR>
 map <C-L> :A <CR>
 so ~/.vimplugin/a.vim
